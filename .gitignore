@@ -1,0 +1,23 @@
+# macOS
+**/.DS_Store
+
+# IDE
+.idea/
+
+# Data (distributed via releases)
+data/
+
+# dashd runtime files (regenerated on start)
+**/debug.log
+**/backups/
+**/.lock
+**/peers.dat
+**/anchors.dat
+**/fee_estimates.dat
+**/mempool.dat
+**/banlist.json
+**/mncache.dat
+**/netfulfilled.dat
+**/governance.dat
+**/sporks.dat
+**/settings.json
